@@ -2,7 +2,7 @@
 Graph generation is the process of generating novel graphs with similar attributes to real world graphs. The explicit and precise control of granular structural attributes, such as node centrality and graph density, is crucial for effective graph generation. This paper introduces a controllable multi-objective translation model for text-attributed graphs,titled Controlled Graph Translator (CGT). It is designed to effectively and efficiently translate a given source graph to a target graph, while satisfying multiple desired graph attributes at granular level. Designed with an encoderdecoder architecture, CGT develops fusion and graph attribute predictor neural networks for controlled graph translation. We validate the effectiveness of CGT through extensive experiments on different genres of datasets. In addition, we illustrate the application of CGT in data augmentation and taxonomy creation, particularly in low resource settings.
 
 <p align="center">
-<img src="https://github.com/nidhivakil/CGT/blob/main/image/controlled_graph_transformer_CGT.drawio.png" width="900" height="610">
+<img src="https://github.com/nidhivakil/CGT/blob/main/image/controlled_graph_transformer_CGT.drawio.png" width="900" height="550">
 </p>
 
 # Data 
